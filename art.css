@@ -1,0 +1,55 @@
+body{
+ background-color:mediumseagreen;
+}
+
+#ft-pg
+{
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: mediumseagreen;
+}
+
+#se-pg
+{
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: mediumseagreen;
+}
+
+#th-pg
+{
+    color:black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:mediumseagreen;
+}
+
+#fo-pg
+{
+    color:black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:mediumseagreen;
+}
+
+#fi-pg
+{
+    color:black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:mediumseagreen;
+}
+
+#title
+{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.points
+{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#PBN
+{
+    width:345px;
+}

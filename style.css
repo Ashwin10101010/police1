@@ -1,0 +1,57 @@
+#title
+{
+    font-family: 'Times New Roman', Times, serif;
+    color:aliceblue;
+}
+
+body{
+    background-color: black;
+}
+
+#title-img
+{
+    border-radius: 2%;
+    width:300px;
+}
+
+#ft-pg
+{
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+}
+
+#se-pg
+{
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+}
+
+#th-pg
+{
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:black;
+}
+
+#fo-pg
+{
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:black;
+}
+
+#fi-pg
+{
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:black;
+}
+
+#cred
+{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
